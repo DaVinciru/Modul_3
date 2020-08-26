@@ -1,0 +1,13 @@
+C:\Users\28228\source\repos\DaVinciru\Modul_3\ForTest\bin\Debug\netcoreapp3.1\ForTest.exe
+C:\Users\28228\source\repos\DaVinciru\Modul_3\ForTest\bin\Debug\netcoreapp3.1\ForTest.deps.json
+C:\Users\28228\source\repos\DaVinciru\Modul_3\ForTest\bin\Debug\netcoreapp3.1\ForTest.runtimeconfig.json
+C:\Users\28228\source\repos\DaVinciru\Modul_3\ForTest\bin\Debug\netcoreapp3.1\ForTest.runtimeconfig.dev.json
+C:\Users\28228\source\repos\DaVinciru\Modul_3\ForTest\bin\Debug\netcoreapp3.1\ForTest.dll
+C:\Users\28228\source\repos\DaVinciru\Modul_3\ForTest\bin\Debug\netcoreapp3.1\ForTest.pdb
+C:\Users\28228\source\repos\DaVinciru\Modul_3\ForTest\obj\Debug\netcoreapp3.1\ForTest.csprojAssemblyReference.cache
+C:\Users\28228\source\repos\DaVinciru\Modul_3\ForTest\obj\Debug\netcoreapp3.1\ForTest.AssemblyInfoInputs.cache
+C:\Users\28228\source\repos\DaVinciru\Modul_3\ForTest\obj\Debug\netcoreapp3.1\ForTest.AssemblyInfo.cs
+C:\Users\28228\source\repos\DaVinciru\Modul_3\ForTest\obj\Debug\netcoreapp3.1\ForTest.csproj.CoreCompileInputs.cache
+C:\Users\28228\source\repos\DaVinciru\Modul_3\ForTest\obj\Debug\netcoreapp3.1\ForTest.dll
+C:\Users\28228\source\repos\DaVinciru\Modul_3\ForTest\obj\Debug\netcoreapp3.1\ForTest.pdb
+C:\Users\28228\source\repos\DaVinciru\Modul_3\ForTest\obj\Debug\netcoreapp3.1\ForTest.genruntimeconfig.cache
