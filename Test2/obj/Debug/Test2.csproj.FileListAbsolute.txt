@@ -1,0 +1,7 @@
+C:\Users\28228\source\repos\DaVinciru\Modul_3\Test2\bin\Debug\Test2.exe.config
+C:\Users\28228\source\repos\DaVinciru\Modul_3\Test2\bin\Debug\Test2.exe
+C:\Users\28228\source\repos\DaVinciru\Modul_3\Test2\bin\Debug\Test2.pdb
+C:\Users\28228\source\repos\DaVinciru\Modul_3\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
+C:\Users\28228\source\repos\DaVinciru\Modul_3\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+C:\Users\28228\source\repos\DaVinciru\Modul_3\Test2\obj\Debug\Test2.exe
+C:\Users\28228\source\repos\DaVinciru\Modul_3\Test2\obj\Debug\Test2.pdb
